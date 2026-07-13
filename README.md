@@ -7,3 +7,16 @@ issues : it uses tkinter but tkinter is not optimized for Instant and thunderbol
 important notes : if your computer uses any old ATI Technologies GPU, we do NOT recommend you to using Instant and Thunderbolt modes! In complex and fast-paced processes, overheating and subsequent solder cracking can occur, which are chronic problems.
 
 If you would like to contribute to the project, you can write to this email address : mrcobalt.info@gmail.com 
+
+
+
+
+
+
+REQUIREMENTS
+
+install pip
+
+open command prompt
+
+type "pip install psutil" for windows, for macos and debian "pip3 install psutil"
